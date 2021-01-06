@@ -362,7 +362,7 @@ func (s *MemcacheSnooper) report() {
 		hitCount := s.hitsByKey.counts[key]
 		missCount := s.missByKey.counts[key]
 		rows = append(rows, []string{
-			key,
+			"`" + key + "`",
 			strconv.Itoa(getCount),
 			strconv.Itoa(hitCount),
 			strconv.Itoa(missCount),
