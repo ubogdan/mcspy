@@ -1,7 +1,8 @@
 repo_name: ubogdan/mcspy
 report_id: e3fc49f3acfb8b446eb75e8a056e66d2
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T21:10:00+00:00'
+timestamp: '2024-01-04T15:14:26+00:00'
 requested_by: theojulienne
 provider: github
 branch: main
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ubogdan/mcspy
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -27,6 +29,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ubogdan/mcspy
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -36,4 +39,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ubogdan/mcspy
   detection_source: Repo Metadata
